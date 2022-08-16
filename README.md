@@ -1,2 +1,3 @@
 # SQL
-# PatikaProjeler / Ödevler
+## Patika.DEV
+### Projeler / Ödevler
