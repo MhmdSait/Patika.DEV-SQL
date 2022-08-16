@@ -1,1 +1,4 @@
-SELECT title,description FROM Film;
+## Cevaplar
+1. SELECT title,description FROM Film;
+2. SELECT  * FROM Film
+WHERE Length > 60 AND Length < 75
