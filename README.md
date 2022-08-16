@@ -1,2 +1,2 @@
 # SQL
-PatikaProjeler / Ödevler
+# PatikaProjeler / Ödevler
