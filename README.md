@@ -1,1 +1,1 @@
-Ödevlerim
+# Patika.dev SQL 
