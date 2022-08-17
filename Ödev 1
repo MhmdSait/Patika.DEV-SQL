@@ -9,4 +9,7 @@ WHERE Length > 60 AND Length < 75
 WHERE rental_rate = 0.99 AND (replacement_cost = 12.99 OR replacement_cost = 28.99)
 
 4. SELECT * FROM customer 
-WHERE first_name = 'Mary' ;     ['Mary' nin last_name sütunundaki değeri 'Smith' dir.] 
+WHERE first_name = 'Mary' ;     ['Mary' nin last_name sütunundaki değeri 'Smith' dir.]   [**'Mary' nin last_name sütunundaki değeri 'Smith' dir.]** 
+
+5. SELECT * FROM Film
+WHERE Length <= 50 AND NOT (rental_rate = 2.99 OR rental_rate = 4.99)
