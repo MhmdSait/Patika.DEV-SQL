@@ -1,6 +1,17 @@
 # Patika.dev SQL 
 ### dvdrental örnek veri tabanı kullanıldı
 
+---
+[odev 6](https://user-images.githubusercontent.com/108357127/185667619-51c313e2-fc70-4566-878f-ece23b915dca.png)
+
+1. **film** tablosunda bulunan **rental_rate** sütunundaki değerlerin ortalaması nedir?
+2. **film** tablosunda bulunan filmlerden kaç tanesi 'C' karakteri ile başlar?
+3. **film** tablosunda bulunan filmlerden rental_rate değeri 0.99 a eşit olan en uzun (length) film kaç dakikadır?
+4. **film** tablosunda bulunan filmlerin uzunluğu 150 dakikadan büyük olanlarına ait kaç farklı replacement_cost değeri vardır?
+## NOT: ÖDEV 6 KLASÖRÜNE BAKINIZ
+
+-----
+---
 [odev 5](https://user-images.githubusercontent.com/108357127/185639918-a3afe8c3-f7a3-4943-b8f2-cdeea45cfd58.png)
 
 1. **film** tablosunda bulunan ve film ismi (title) 'n' karakteri ile biten en uzun (length) 5 filmi sıralayınız.
