@@ -8,6 +8,8 @@
 3. **customer** tablosunda bulunan last_name sütununa göre azalan yapılan sıralamada store_id 1 olmak koşuluyla ilk 4 veriyi sıralayınız.
 ## NOT: ÖDEV 5 KLASÖRÜNE BAKINIZ
 ---
+---
+[odev 4](https://user-images.githubusercontent.com/108357127/185640110-31d609a4-2b59-4bdd-b87f-2f7d8dba5bde.png)
 
 1. **film** tablosunda bulunan **replacement_cost** sütununda bulunan birbirinden farklı değerleri sıralayınız.
 2. **film** tablosunda bulunan **replacement_cost** sütununda birbirinden farklı kaç tane veri vardır?
@@ -17,6 +19,8 @@
 ## NOT: ÖDEV 4 KLASÖRÜNE BAKINIZ
 
 --------------------------------------------------------------------------------------
+---
+[odev 3](https://user-images.githubusercontent.com/108357127/185640307-ec61ae34-66da-41b3-8d6d-877d55397765.png)
 
 1. **country** tablosunda bulunan **country** sütunundaki ülke isimlerinden 'A' karakteri ile başlayıp 'a' karakteri ile sonlananları sıralayınız.
 2. **country** tablosunda bulunan **country** sütunundaki ülke isimlerinden en az 6 karakterden oluşan ve sonu 'n' karakteri ile sonlananları sıralayınız.
@@ -25,6 +29,8 @@
 ## NOT: ÖDEV 3 KLASÖRÜNE BAKINIZ 
 
 -----------------------------------------------------------------------------------------------
+---
+[odev 2](https://user-images.githubusercontent.com/108357127/185640385-42ab869d-af4b-4cf8-8eb8-282b0d47ab82.png)
 
 1. **film**  tablosunda bulunan tüm sütunlardaki verileri replacement cost değeri 12.99 dan büyük eşit ve 16.99 küçük olma koşuluyla sıralayınız ( *BETWEEN* - *AND* yapısını kullanınız.)
 2. **actor** tablosunda bulunan first_name ve last_name sütunlardaki verileri first_name 'Penelope' veya 'Nick' veya 'Ed' değerleri olması koşuluyla sıralayınız. ( IN operatörünü kullanınız.)
@@ -32,6 +38,9 @@
 ## NOT: ÖDEV 2 KLASÖRÜNE BAKINIZ 
 
 ----------------------------------------------------------------------------------------------------------------------
+---
+[odev 1](https://user-images.githubusercontent.com/108357127/185640472-e9727083-d056-4c39-823e-5312ddb2d27c.png)
+
 1. **film** tablosunda bulunan **title** ve **description** sütunlarındaki verileri sıralayınız.
 2. **film** tablosunda bulunan tüm sütunlardaki verileri film uzunluğu (length) 60 dan büyük **VE** 75 ten küçük olma koşullarıyla sıralayınız.
 3. **film** tablosunda bulunan tüm sütunlardaki verileri rental_rate 0.99 **VE** replacement_cost 12.99 **VEYA** 28.99 olma koşullarıyla sıralayınız.
