@@ -1,5 +1,10 @@
 # Patika.dev SQL 
 ### dvdrental örnek veri tabanı kullanıldı
+#### GÖRSELE ULAŞMAK İÇİN 'odev' YAZAN YERE TIKLAYINIZ.
+
+-----
+---
+[odev 7](https://user-images.githubusercontent.com/108357127/185734414-455148f8-9c5b-4329-81a8-64f3f6899dfd.png)
 
 1. **film** tablosunda bulunan filmleri **rating** değerlerine göre gruplayınız.
 2. **film** tablosunda bulunan filmleri **replacement_cost** sütununa göre grupladığımızda film sayısı 50 den fazla olan replacement_cost değerini ve karşılık gelen film sayısını sıralayınız.
