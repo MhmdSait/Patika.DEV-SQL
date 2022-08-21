@@ -2,6 +2,11 @@
 ### dvdrental örnek veri tabanı kullanıldı
 #### GÖRSELE ULAŞMAK İÇİN 'odev' YAZAN YERE TIKLAYINIZ.
 **---**
+---
+------------------------------------------------
+[odev 8.1](https://user-images.githubusercontent.com/108357127/185796921-fbd1b2a4-c155-470e-bb86-60a2063b57b4.png)
+
+[odev 8.2](https://user-images.githubusercontent.com/108357127/185796902-bbdde2bb-1f67-494a-924e-069f89f7c25b.png)
 
 1. **test** veritabanınızda **employee** isimli sütun bilgileri id(INTEGER), name VARCHAR(50), birthday DATE, email VARCHAR(100) olan bir tablo oluşturalım.
 2. Oluşturduğumuz **employee** tablosuna *'Mockaroo'* servisini kullanarak 50 adet veri ekleyelim.
