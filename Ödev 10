@@ -1,0 +1,17 @@
+## Cevaplar = 3 Tane
+
+1. SELECT city, country FROM City
+   LEFT JOIN Country
+   ON country.country_id = city.country_id;
+   
+   
+2. SELECT payment.payment_id, customer.first_name, customer.last_name
+   FROM Custome
+   RIGHT JOIN Payment
+   ON payment.customer_id = customer.customer_id;
+   
+
+3. SELECT rental.rental_id, customer.first_name, customer.last_name
+   FROM Customer
+   FULL JOIN Rental
+   ON rental.customer_id = customer.customer_id;
