@@ -3,6 +3,7 @@
 #### GÖRSELE ULAŞMAK İÇİN 'odev' YAZAN YERE TIKLAYINIZ.
 **---**
 ---
+[odev 9](https://user-images.githubusercontent.com/108357127/186147240-d4518435-c9c1-410f-9e82-86d072ab0b4d.png)
 
 1. **city** tablosu ile **country** tablosunda bulunan şehir (city) ve ülke (country) isimlerini birlikte görebileceğimiz INNER JOIN sorgusunu yazınız.
 2. **customer** tablosu ile **payment** tablosunda bulunan payment_id ile customer tablosundaki first_name ve last_name isimlerini birlikte görebileceğimiz INNER JOIN sorgusunu yazınız.
