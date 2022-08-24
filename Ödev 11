@@ -1,0 +1,58 @@
+## Cevaplar = 4 Tane
+
+1. 
+  (
+  SELECT first_name FROM Actor  
+  )
+  UNION
+  (
+  SELECT first_name FROM Customer
+  );
+
+
+2.
+  (
+  SELECT first_name FROM Actor  
+  )
+  INTERSECT
+  (
+  SELECT first_name FROM Customer
+  );
+  
+  
+3.
+  (
+  SELECT first_name FROM Actor  
+  )
+  EXCEPT
+  (
+  SELECT first_name FROM Customer
+  );
+
+
+4.1.
+  (
+  SELECT first_name FROM Actor  
+  )
+  UNION ALL
+  (
+  SELECT first_name FROM Customer
+  );
+
+4.2.
+  (
+  SELECT first_name FROM Actor  
+  )
+  INTERSECT ALL
+  (
+  SELECT first_name FROM Customer
+  );
+  
+4.3.
+  (
+  SELECT first_name FROM Actor  
+  )
+  EXCEPT ALL
+  (
+  SELECT first_name FROM Customer
+  );
