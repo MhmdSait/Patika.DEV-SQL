@@ -2,6 +2,15 @@
 ### dvdrental örnek veri tabanı kullanıldı
 #### GÖRSELE ULAŞMAK İÇİN 'odev' YAZAN YERE TIKLAYINIZ.
 **---**
+-----
+[odev 12](https://user-images.githubusercontent.com/108357127/186706128-98b1a6b4-aaae-4bdb-b30f-8bfa579b7cc5.png)
+
+1. **film** tablosunda film uzunluğu **length** sütununda gösterilmektedir. Uzunluğu ortalama film uzunluğundan fazla kaç tane film vardır?
+2. **film** tablosunda en yüksek *rental_rate* değerine sahip kaç tane film vardır?
+3. **film** tablosunda en düşük *rental_rate ve en düşün replacement_cost* değerlerine sahip filmleri sıralayınız.
+4. **payment** tablosunda en fazla sayıda alışveriş yapan müşterileri(customer) sıralayınız.
+## NOT: ÖDEV 12 KLASÖRÜNE BAKINIZ
+-------
 ---
 [odev 11](https://user-images.githubusercontent.com/108357127/186517267-15088349-53f0-481c-a7f3-0ae34244a4ef.png)
 
